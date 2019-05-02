@@ -1,0 +1,17 @@
+C:\Users\Maibenben\Desktop\Chrome\Chrome\bin\Release\Chrome.exe.config
+C:\Users\Maibenben\Desktop\Chrome\Chrome\bin\Release\Chrome.exe
+C:\Users\Maibenben\Desktop\Chrome\Chrome\bin\Release\Chrome.pdb
+C:\Users\Maibenben\Desktop\Chrome\Chrome\obj\Release\MainWindow.g.cs
+C:\Users\Maibenben\Desktop\Chrome\Chrome\obj\Release\userWeb.g.cs
+C:\Users\Maibenben\Desktop\Chrome\Chrome\obj\Release\App.g.cs
+C:\Users\Maibenben\Desktop\Chrome\Chrome\obj\Release\Chrome_MarkupCompile.cache
+C:\Users\Maibenben\Desktop\Chrome\Chrome\obj\Release\Chrome_MarkupCompile.lref
+C:\Users\Maibenben\Desktop\Chrome\Chrome\obj\Release\MainWindow.baml
+C:\Users\Maibenben\Desktop\Chrome\Chrome\obj\Release\userWeb.baml
+C:\Users\Maibenben\Desktop\Chrome\Chrome\obj\Release\Chrome.g.resources
+C:\Users\Maibenben\Desktop\Chrome\Chrome\obj\Release\Chrome.Properties.Resources.resources
+C:\Users\Maibenben\Desktop\Chrome\Chrome\obj\Release\Chrome.csproj.GenerateResource.cache
+C:\Users\Maibenben\Desktop\Chrome\Chrome\obj\Release\Chrome.csproj.CoreCompileInputs.cache
+C:\Users\Maibenben\Desktop\Chrome\Chrome\obj\Release\Chrome.exe
+C:\Users\Maibenben\Desktop\Chrome\Chrome\obj\Release\Chrome.pdb
+C:\Users\Maibenben\Desktop\Chrome\Chrome\obj\Release\Chrome.csprojAssemblyReference.cache
